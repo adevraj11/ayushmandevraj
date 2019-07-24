@@ -10,16 +10,14 @@ permalink: /contact/
 
 53, Lakhimi Path
 Beltola, Guwahati
-Assam, India
-PIN- 781028
+Assam, India PIN- 781028
 
 ## Address >> Office
 
 Dept. of English
 B. Borooah College
 Ulubari, Guwahati.
-Assam, India
-PIN- 781007
+Assam, India PIN- 781007
 
 ## Phone
 
@@ -28,8 +26,6 @@ PIN- 781007
 ## Email
 
 ayushman[at]gauhati.ac.in (Official)
-
-
 
 ayushman[at]hotmail.co.in (Personal)
 
