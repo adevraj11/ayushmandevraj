@@ -16,9 +16,10 @@ PIN- 781028
 
 ## Address >> Office
 
-Dept. of English, B. Borooah College 
-Ulubari, Guwahati, Assam  
-India. PIN- 781007
+Dept. of English, B. Borooah College  
+Ulubari, Guwahati  
+Assam, India  
+PIN- 781007
 
 ### Email
 
