@@ -24,7 +24,6 @@ PIN- 781007
 ## Email
 
 ayushman[at]gauhati.ac.in (Official)
-
 ayushman[at]hotmail.co.in (Personal)
 
 Replace [at] by @ in the above email addresses.
