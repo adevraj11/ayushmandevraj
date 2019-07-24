@@ -9,7 +9,7 @@ permalink: /contact/
 
 53 Lakhimi Path
 Beltola, Guwahati
-Assam, India.  
+Assam, India.
 PIN- 781028 
 
 ## Address >> Office
