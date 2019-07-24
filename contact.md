@@ -1,26 +1,23 @@
 ---
 layout: page
 title: Contact Me
-description: Connect with me.
+description: Email is the most convenient way to contact me.
 background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
 
-## Address >> Home
+<p> ## Address >> Home
 
 53, Lakhimi Path,
 Beltola, Guwahati
 Assam, India PIN- 781028
+</p>
 
 ## Address >> Office
 
-Dept. of English
+Dept. of English,
 B. Borooah College, Guwahati,
 Assam, India PIN- 781007
-
-## Phone
-
-(+91) 887 619 7064 
 
 ## Email
 
