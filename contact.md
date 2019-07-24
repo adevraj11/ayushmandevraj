@@ -7,16 +7,17 @@ permalink: /contact/
 ---
 ## Address >> Home
 
-53 Lakhimi Path 
-Beltola Guwahati  
-Assam India  
+53 Lakhimi Path
+Beltola, Guwahati
+Assam, India.  
 PIN- 781028 
 
 ## Address >> Office
 
-Department of English B. Borooah College
-Ulubari Guwahati 
-Assam India 
+Department of English
+B. Borooah College
+Ulubari, Guwahati
+Assam, India.
 PIN- 781007
 
 ## Email
