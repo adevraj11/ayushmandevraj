@@ -5,7 +5,6 @@ description: Email is the most convenient way to contact me.
 background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
-
 ## Address >> Home
 
 53 Lakhimi Path
