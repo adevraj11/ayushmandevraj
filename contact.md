@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact Me
-description: Have questions? I have answers.
+description: Connect with me.
 background: '/img/bg-contact.jpg'
-form: true
+permalink: /contact/
 ---
 
 ## Address >> Home
