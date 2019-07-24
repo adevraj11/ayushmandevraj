@@ -28,3 +28,26 @@ ayushman[at]gauhati.ac.in (Official)
 ayushman[at]hotmail.co.in (Personal)
 
 Replace [at] by @ in the above email addresses.
+
+## Address >> Current Office
+
+Research Fellow  
+Room OMP1 01.128  
+Faculty of Mathematics  
+University of Vienna  
+Oskar Morgenstern-Platz 1  
+Wien 1090  
+Austria
+
+## Address >> Current Mailing
+
+Raaber-Bahn-Gasse 2/2/4  
+Wien 1100  
+Austria
+
+## Address >> Permanent
+
+House Number 465  
+B. B. Road, Baraholia  
+Tezpur 784001, Assam  
+India
