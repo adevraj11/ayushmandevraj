@@ -18,4 +18,8 @@ permalink: '/history-of-this-site/'
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/9npu1jw"><a href="//imgur.com/a/9npu1jw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 
+Trial Website 1                       |  Trial Website 2 
+:------------------------------------:|:------------------------------------:
+![](https://i.imgur.com/DNkxRmz.png)  |  ![](https://i.imgur.com/Jpen5Ga.png)
+
 <p>The website is still in its early form. If anyone notices any glitch or errors, fell free to tell me on the comments below. Hope to keep it up and running for a long time! </p>
