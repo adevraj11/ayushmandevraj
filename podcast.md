@@ -6,7 +6,7 @@ background: '/img/bg-podcast.jpg'
 permalink: /podcast/
 ---
 
-<h6> PocketCasts is my favourite podcast app.</h6> 
+<h5> PocketCasts is my favourite podcast app.</h5> 
 <p> Although I use Spotify, I like to keep my podcast app different from my music app. I purchased this app from the Google Playstore almost a year ago and since then I've have listened to various podcasts for 46 days and 7 hours (their stats, not mine!). I have tried to link all the podcasts that I am currently listening to below! Enjoy listening! </p>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5gMPRNC"><a href="//imgur.com/a/5gMPRNC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
