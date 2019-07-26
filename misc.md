@@ -1,16 +1,12 @@
 ---
 layout: page
 title: Miscellaneous
-description: Sine qua nons
+description: Assorted links: about me, by me!
 background: '/img/bg-misc.jpg'
 permalink: /misc/
 ---
 
-<p> <h5> Sine qua non </h5>
-		/ˌsɪni kwɑː ˈnəʊn,ˌsʌɪni kweɪ ˈnɒn/
-	noun
-	an essential condition; a thing that is absolutely necessary.
-	"grammar and usage are the sine qua non of language teaching and learning" </p>
+<h5> Assorted links, mostly about things that interests me. </h5>
 
 <hr>
 <h4>My Spotify Playlists:</h4>
