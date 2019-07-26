@@ -2,7 +2,7 @@
 layout: post
 title: "Wordpress to GitHub and Jekyll- the history of my website"
 subtitle: "Origin, problems and solutions."
-date: 2017-10-26 23:45:13 -0400
+date: 2017-07-26 23:45:13 -0400
 background: '/img/posts/08.jpg'
 tags: website history personal random
 permalink: '/history-of-this-site/'
