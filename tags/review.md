@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-tag: art
-title: Posts with tag Art
+tag: review
+title: Posts with tag review
 background: '/img/bg-review.jpg'
-permalink: /tags/art/
+permalink: /tags/review/
 ---
