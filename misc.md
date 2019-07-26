@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Miscellaneous
-description: Extraaaax
+description: Basically 42
 background: '/img/bg-misc.jpg'
 permalink: /misc/
 ---
-This page will link to various other things about me. Most of the links are perhaps of interest only for me.
+
+A collection of things that I use/watch/read/listen everyday. They are an essential part of my life, things that I cannot do without.
 
 <hr>
 <h4>Podcast:</h4>
