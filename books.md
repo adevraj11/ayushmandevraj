@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-description: Books that I have read since August 2014.
+description: Books that I have read since 2012.
 background: '/img/books.jpg'
 permalink: /books/
 ---
