@@ -6,6 +6,7 @@ background: '/img/bg-misc.jpg'
 permalink: /misc/
 ---
 
+<hr>
 <h5> Assorted links, mostly about things that interests me. </h5>
 
 <hr>
