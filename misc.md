@@ -7,7 +7,7 @@ permalink: /misc/
 ---
 
 <hr>
-<h5> Assorted links, mostly about things that interests me. </h5>
+<h6> Assorted links, mostly about things that interests me. </h6>
 
 <hr>
 <h4>My Spotify Playlists:</h4>
