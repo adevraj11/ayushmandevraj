@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-description: Assorted links: about me, by me!
+description: Assorted links- about me, by me!
 background: '/img/bg-misc.jpg'
 permalink: /misc/
 ---
