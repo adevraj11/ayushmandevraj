@@ -14,7 +14,7 @@ permalink: /podcast/
 
 <hr>
 
-<h4> <a href="https://gimletmedia.com/shows/reply-all" target="_blank" rel="noopener"> Serial </a> </h4>
+<h4> <a href="https://serialpodcast.org/season-one" target="_blank" rel="noopener"> Serial </a> </h4>
  - Serial is an investigative journalism podcast hosted by Sarah Koenig, narrating a nonfiction story over multiple episodes. The series was co-created and is co-produced by Koenig and Julie Snyder and developed by This American Life. 
  <hr>
 
