@@ -6,27 +6,29 @@ background: '/img/bg-favwebsite.jpg'
 permalink: /favwebsite/
 ---
 
-<hr> 
-<h3> Here are the links to the websites I frequently visit. </h3>
+<h4> Here are the links to the websites I frequently visit. </h4>
 <hr>
 
-<hr>
-<h4> <a href="https://www.theverge.com/" target="_blank" rel="noopener"> The Verge </a>. </h4>
+<h6> <a href="https://www.theverge.com/" target="_blank" rel="noopener"> The Verge </a> </h6>
  - All things tech!
 <hr>
 
-<hr>
-<h4> <a href="https://www.vox.com//" target="_blank" rel="noopener"> Vox.com </a>. </h4>
-<hr>
-
-<hr>
-<h4> <a href="https://thewire.in/" target="_blank" rel="noopener"> The Wire </a>. </h4>
- - News, OPeds, and more.
+<h6> <a href="https://www.vox.com//" target="_blank" rel="noopener"> Vox.com </a> </h6>
+- Covers almost everything!
 <hr>
 
+<h6> <a href="https://thewire.in/" target="_blank" rel="noopener"> The Wire </a> </h6>
+ - News, OP-eds, and more.
 <hr>
-<h4> <a href="https://www.thehindu.com/" target="_blank" rel="noopener"> The Hindu </a>. </h4>
+
+<h6> <a href="https://www.thehindu.com/" target="_blank" rel="noopener"> The Hindu </a> </h6>
  - Mostly for their editorials.
 <hr> 
 
+<h6> <a href="https://www.cricbuzz.com/" target="_blank" rel="noopener"> Cricbuzz </a> </h6>
+ - Here for live scores, analysis, reports and Harsha Bhogle. 
+<hr> 
 
+<h6> <a href="https://www.cricbuzz.com/" target="_blank" rel="noopener"> Cricbuzz </a> </h6>
+ - Here for live scores, analysis, reports and Harsha Bhogle. 
+<hr> 
