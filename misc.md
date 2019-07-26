@@ -26,4 +26,3 @@ A collection of things that I use/watch/read/listen everyday. They are an essent
 
 <h4>Websites:</h4>
 [Websites that I frequestly visit!](/favwebsite)
-<hr>
