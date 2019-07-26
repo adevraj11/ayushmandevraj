@@ -15,7 +15,7 @@ permalink: /podcast/
 <hr>
 
 <h4> <a href="https://www.earwolf.com/show/conan-obrien/" target="_blank" rel="noopener"> Conan O'Brien Needs a Friend </a> </h4>
- - After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that. Deeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.
+ - Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.
 <hr>
 
 <h4> <a href="https://www.lewlater.com" target="_blank" rel="noopener"> Lew Later </a> </h4>
