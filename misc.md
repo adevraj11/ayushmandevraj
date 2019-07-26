@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-description: Basically 42
+description: Unnecessary indulgences
 background: '/img/bg-misc.jpg'
 permalink: /misc/
 ---
