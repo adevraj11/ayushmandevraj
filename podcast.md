@@ -14,6 +14,10 @@ permalink: /podcast/
 
 <hr>
 
+<h4> <a href="https://gimletmedia.com/shows/reply-all" target="_blank" rel="noopener"> Serial </a> </h4>
+ - Serial is an investigative journalism podcast hosted by Sarah Koenig, narrating a nonfiction story over multiple episodes. The series was co-created and is co-produced by Koenig and Julie Snyder and developed by This American Life. 
+ <hr>
+
 <h4> <a href="https://www.earwolf.com/show/conan-obrien/" target="_blank" rel="noopener"> Conan O'Brien Needs a Friend </a> </h4>
  - Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.
 <hr>
@@ -25,3 +29,11 @@ permalink: /podcast/
  <h4> <a href="http://podcasts.joerogan.net/" target="_blank" rel="noopener"> The Joe Rogan Experience </a> </h4>
  - The Joe Rogan Experience podcast is a long form conversation hosted by comedian Joe Rogan with friends and guests that have included comedians, actors, musicians, MMA fighters, authors, artists, and beyond.
  <hr>
+
+ <h4> <a href="https://gimletmedia.com/shows/reply-all" target="_blank" rel="noopener"> Reply All </a> </h4>
+ - “A podcast about the internet- Reply All is an unfailingly original exploration of modern life and how to survive it.” – The Guardian
+ <hr>
+
+
+
+ 
