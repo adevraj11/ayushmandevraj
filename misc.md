@@ -16,6 +16,7 @@ A collection of things that I use/watch/read/listen everyday. They are an essent
 
 <h4>Podcast:</h4>
 [Links to my favourite podcasts!](/podcast)
+
 <hr>
 
 
