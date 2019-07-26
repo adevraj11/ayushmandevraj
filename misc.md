@@ -13,17 +13,17 @@ A collection of things that I use/watch/read/listen everyday. They are an essent
 [Links to all the personally curated music playsists on Spotify!](/myspotify)
 <hr>
 
-<hr>
+
 <h4>Podcast:</h4>
 [Links to my favourite podcasts!](/podcast)
 <hr>
 
-<hr>
+
 <h4>Books:</h4>
 [List of all the books I've read since 2012!](/books)
 <hr>
 
-<hr>
+
 <h4>Websites:</h4>
 [Websites that I frequestly visit!](/favwebsite)
 <hr>
