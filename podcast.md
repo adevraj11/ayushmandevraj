@@ -20,19 +20,19 @@ permalink: /podcast/
  <hr>
 
 <h4> <a href="https://www.earwolf.com/show/conan-obrien/" target="_blank" rel="noopener"> Conan O'Brien Needs a Friend </a> </h4>
- - Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.
+ - <p class="text-justify">Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way.</p>
 <hr>
 
 <h4> <a href="https://www.lewlater.com" target="_blank" rel="noopener"> Lew Later </a> </h4>
- - Lew Later is a podcast from Lewis George Hilsenteger, the creator/host of Unbox Therapy. Here, Lew takes a deeper dive into technology news and internet culture. 
+ - <p class="text-justify">Lew Later is a podcast from Lewis George Hilsenteger, the creator/host of Unbox Therapy. Here, Lew takes a deeper dive into technology news and internet culture.</p> 
  <hr>
 
  <h4> <a href="http://podcasts.joerogan.net/" target="_blank" rel="noopener"> The Joe Rogan Experience </a> </h4>
- - The Joe Rogan Experience podcast is a long form conversation hosted by comedian Joe Rogan with friends and guests that have included comedians, actors, musicians, MMA fighters, authors, artists, and beyond.
+ - <p class="text-justify">The Joe Rogan Experience podcast is a long form conversation hosted by comedian Joe Rogan with friends and guests that have included comedians, actors, musicians, MMA fighters, authors, artists, and beyond.</p>
  <hr>
 
  <h4> <a href="https://gimletmedia.com/shows/reply-all" target="_blank" rel="noopener"> Reply All </a> </h4>
- - “A podcast about the internet- Reply All is an unfailingly original exploration of modern life and how to survive it.” – The Guardian
+ - <p class="text-justify">“A podcast about the internet- Reply All is an unfailingly original exploration of modern life and how to survive it.” – The Guardian.</p>
  <hr>
 
 
