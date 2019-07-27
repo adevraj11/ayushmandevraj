@@ -17,6 +17,6 @@ permalink: '/history-of-this-site/'
 
 Trial Website 1                       |  Trial Website 2
 :------------------------------------:|:------------------------------------:
-![](https://i.imgur.com/DNkxRmz.png)  |  ![](https://i.imgur.com/4vbA4T2.png)
+![](https://i.imgur.com/DNkxRmzm.png)  |  ![](https://i.imgur.com/4vbA4T2m.png)
 
 <p>The website is still in its early form. If anyone notices any glitch or errors, fell free to tell me on the comments below. Hope to keep it up and running for a long time! </p>
