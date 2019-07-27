@@ -15,7 +15,7 @@ permalink: '/history-of-this-site/'
 <p>Like any other netizen I went to Twitter and Reddit for help. Thankfully, one of my university seniors, who himself successfully runs a website, suggested on Twitter that I move to GitHub or Hugo where I can host for free. I have never heard about Hugo before. The only thing I knew about GitHub was Microsoft acquired it for some billion dollars a year ago. That’s all I knew. Thankfully, July being a month of vacations, I had abundant of free time to look up and read about the two. I watched several YouTube videos, read numerous articles and blog posts and acquainted myself with GitHub pages and Jekyll. Without any knowledge of coding whatsoever, I staretd building a website from the scratch. Tried and tested several themes (<a href="https://ayushmandevraj.github.io/jekyll-theme-console/" target="_blank" rel="noopener">first theme</a>, <a href="https://ayushmandevraj.github.io/" target="_blank" rel="noopener">second theme</a>) and finally when my confidence grew I started working on the current theme, and a week later was successful in setting up this website. Now, I do not pay a single paisa for hosting. I renewed my domain name for another two years by paying 1200 INR, which according to many on the internet is a pretty sweet deal.</p>
 
 
-_Trial Website 1_                       |  _Trial Website 2_ 
+Trial Website 1                       |  Trial Website 2
 :------------------------------------:|:------------------------------------:
 ![](https://i.imgur.com/DNkxRmz.png)  |  ![](https://i.imgur.com/4vbA4T2.png)
 
