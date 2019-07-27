@@ -9,7 +9,7 @@ permalink: /podcast/
 <h5> PocketCasts is my favourite podcast app.</h5> 
 <p class="text-justify">Although I use Spotify, I like to keep my podcast app different from my music app. I purchased this app from the Google Playstore almost a year ago and since then I've have listened to various podcasts for 46 days and 7 hours (their stats, not mine!). Below you will find links to all the podcasts that I am currently listening. Put your headphones on and enjoy!</p>
 
-<p class="text-justify">*Clicking on the the title will direct you to the podcast page*.</p>
+*Clicking on the the title will direct you to the podcast page*.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5gMPRNC"><a href="//imgur.com/a/5gMPRNC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
