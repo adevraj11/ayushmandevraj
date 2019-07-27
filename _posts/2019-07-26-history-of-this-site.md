@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Wordpress to GitHub and Jekyll- the history of my website"
 subtitle: "Origin, problems and solutions."
 date: 2019-07-26 23:45:13 -0400
