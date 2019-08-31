@@ -16,14 +16,14 @@ PIN- 781028
 
 ## Address >> Office
 
-Dept. of English, B. Borooah College  
-Ulubari, Guwahati  
+B-405, Dept. of English, Royal Global University 
+Betkuchi, Guwahati  
 Assam, India  
-PIN- 781007
+PIN- 781037
 
 ## Email
 
-ayushman[at]gauhati.ac.in (Official)
+adevraj[at]rgu.ac (Official)
 
 ayushman[at]hotmail.co.in (Personal)
 
