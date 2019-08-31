@@ -17,7 +17,7 @@ PIN- 781028
 ## Address >> Office
 
 B-405, Dept. of English
-Royal Global University 
+Royal Global University
 Betkuchi, Guwahati  
 Assam, India  
 PIN- 781037
