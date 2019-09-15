@@ -11,7 +11,6 @@ permalink: /quiz/
 
 <h2> <a href="/quizzes/Teaser-BBorooahCollege.pdf"> Teaser </a> </h2>
  - An Inter Institutional Quiz Competition conducted at B Borooah College, Guwahati on 14 September, 2019 as a part of the college fest "Youth Conclave". 
-<hr>
-<hr>
+ 
  40 teams appeared for the prelims. Highest score in the prelims was 18/25. The cutoff was 14.
 <hr>
