@@ -22,6 +22,11 @@ permalink: /misc/
 [List of all the books I've read since 2012!](/books)
 <hr>
 
+<hr>
+<h4>Quiz:</h4>
+[List of all the books I've read since 2012!](/quiz)
+<hr>
+
 <h4>Websites:</h4>
 [Websites that I frequestly visit!](/favwebsite)
 
