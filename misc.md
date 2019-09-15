@@ -24,7 +24,7 @@ permalink: /misc/
 
 <hr>
 <h4>Quiz:</h4>
-[List of all the books I've read since 2012!](/quiz)
+[Links to every Quiz I conducted.!](/quiz)
 <hr>
 
 <h4>Websites:</h4>
