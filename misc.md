@@ -24,7 +24,7 @@ permalink: /misc/
 
 <hr>
 <h4>Quiz:</h4>
-[Links to every Quiz I conducted.!](/quiz)
+[Links to every Quiz I conducted!](/quiz)
 <hr>
 
 <h4>Websites:</h4>
