@@ -26,6 +26,6 @@ PIN- 781037
 
 adevraj[at]rgu.ac (Official)
 
-ayushman[at]hotmail.co.in (Personal)
+aydevraj[at]gmail.com (Personal)
 
 Replace [at] by @ in the above email addresses.
