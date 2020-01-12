@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-description: Email is the most convenient way to contact me.
+description: Feel free to reach out to me via email. 
 background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
