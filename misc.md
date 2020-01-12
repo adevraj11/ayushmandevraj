@@ -12,12 +12,12 @@ permalink: /misc/
 
 <hr>
 <h4>Books:</h4>
-[List of all the books I've read since 2012!](/books)
+[Books I've read.](/books)
 <hr>
 
 <hr>
 <h4>Quiz:</h4>
-[Links to every Quiz I conducted!](/quiz)
+[Quizzes I've conducted!](/quiz)
 <hr>
 
 <hr>
