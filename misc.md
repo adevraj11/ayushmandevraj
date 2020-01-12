@@ -12,7 +12,7 @@ permalink: /misc/
 
 <hr>
 <h4>Books:</h4>
-[Books I've read.](/books)
+[Books I've read!](/books)
 <hr>
 
 <hr>
