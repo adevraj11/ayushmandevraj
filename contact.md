@@ -6,20 +6,12 @@ background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
 
-## Address >> Home
-
-53, Lakhimi Path  
-Beltola, Guwahati  
-Assam, India  
-PIN- 781028 
-
-
-## Address >> Office
+## Address >> Work
 
 B-405, Dept. of English  
-Royal Global University
+Royal Global University  
 Betkuchi, Guwahati  
-Assam, India  
+Assam, India
 PIN- 781037
 
 ## Email
