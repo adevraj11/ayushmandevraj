@@ -2,7 +2,7 @@
 layout: page
 title: Contact Me
 description: Feel free to reach out to me via email. 
-background: '/img/bg-contact.jpg'
+background: '/img/bg-contact.gif'
 permalink: /contact/
 ---
 
