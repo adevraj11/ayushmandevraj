@@ -2,7 +2,7 @@
 layout: page
 title: Spice Fest 
 description: My Cooking (mis)Adventures
-background: '/img/bg-misc.jpg'
+background: '/img/spicefestimg.jpg'
 permalink: /spicefest/
 ---
 
