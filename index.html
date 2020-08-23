@@ -13,7 +13,17 @@ order: 1
 
 <br>
 
-<center><img class="img-fluid" src="https://i.imgur.com/WpJ389x.jpg" alt="Demo Image"></center>
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="{{ <img class="img-fluid" src="https://i.imgur.com/WpJ389x.jpg" alt="Demo Image"> }}" alt="">
+  </div>
+  <div>
+    <h2>{{ Hi}}</h2>
+    {{ include.description | markdownify }}
+  </div>
+</div>
+
+<center></center>
 
 <br>
 
