@@ -6,7 +6,7 @@ background: '/img/bg-contact.gif'
 permalink: /contact/
 ---
 
-## Address >> Work
+## Address 
 
 B-405, Dept. of English  
 Royal Global University  
@@ -14,7 +14,7 @@ Betkuchi, Guwahati
 Assam, India
 PIN- 781037
 
-## Email
+## Email(s)
 
 adevraj at rgu dot ac (Official)
 
