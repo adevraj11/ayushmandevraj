@@ -16,8 +16,6 @@ PIN- 781037
 
 ## Email
 
-adevraj[at]rgu.ac (Official)
+adevraj at rgu dot ac (Official)
 
-aydevraj[at]gmail.com (Personal)
-
-Replace [at] by @ in the above email addresses.
+aydevraj at gmail dot com (Personal)
