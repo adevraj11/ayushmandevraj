@@ -18,4 +18,4 @@ PIN- 781037
 
 adevraj at rgu dot ac (Official)
 
-aydevraj at gmail dot com (Personal)
+mail at ayushmandevraj dot in (Personal)
