@@ -14,8 +14,8 @@ Betkuchi, Guwahati
 Assam, India
 PIN- 781037
 
-## Email(s)
+## Email
 
-adevraj at rgu dot ac (Official)
+ayushman(at)devraj(dot)net(dot)in
 
-mail at ayushmandevraj dot in (Personal)
+(kindly replace at with @ and dot with .)
