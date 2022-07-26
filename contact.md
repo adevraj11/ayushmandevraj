@@ -8,8 +8,9 @@ permalink: /contact/
 
 ## Address 
 
-B-405, Dept. of English  
-Royal Global University  
+B-405, Deptartment of English  
+Royal School of Languages
+The Assam Royal Global University  
 Betkuchi, Guwahati  
 Assam, India
 PIN- 781037
