@@ -17,8 +17,8 @@ PIN- 781037
 
 ## Email
 
-Work - adevraj (at) rgu (dot) ac
-
+Work - adevraj (at) rgu (dot) ac  
+  
 Personal - ayushman (at) devraj (dot) net (dot) in
-
+  
 (replace at with @ and dot with .)
