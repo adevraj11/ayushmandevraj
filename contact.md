@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Me
-description: Feel free to reach out to me via email. 
+title: Contact 
+description: 
 background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
@@ -16,6 +16,7 @@ PIN- 781037
 
 ## Email
 
-ayushman(at)devraj(dot)net(dot)in
+Work - adevraj (at) rgu (dot) ac
+Personal - ayushman (at) devraj (dot) net (dot) in
 
-(kindly replace at with @ and dot with .)
+(replace at with @ and dot with .)
