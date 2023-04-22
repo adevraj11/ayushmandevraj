@@ -18,5 +18,7 @@ PIN- 781037
 
 *Work* - adevraj (at) rgu (dot) ac  
 *Personal* - ayushman (at) hotmail (dot) co (dot) in
+
+*Username everywhere on the web* - (at) aydevraj
   
 (replace at with @ and dot with .)
