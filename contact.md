@@ -16,10 +16,9 @@ PIN- 781037
 
 ## Email
 
-*Work* - adevraj (at) rgu (dot) ac  
-*Personal* - ayushman (at) hotmail (dot) co (dot) in
+*Work* - adevraj (at) rgu (dot) ac 
 
-##Username 
+## Username 
 
 *Everywhere on the web* - (at) aydevraj
   
