@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Contact 
-description: Wanna talk?
+description: let's talk
 background: '/img/bg-contact.gif'
 permalink: /contact/
 ---
 
 ## Address 
 
-B-405\
+B-401\
 Deptartment of English, Royal School of Languages\
 The Assam Royal Global University, Guwahati\
 Assam, India\
