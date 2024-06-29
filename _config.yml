@@ -6,9 +6,9 @@ baseurl:            "/"
 url:                "https://devraj.net.in"
 
 # Social Profiles
-twitter_username:   aydevraj
-facebook_username: aydevraj
-instagram_username: aydevraj
+twitter_username:   
+facebook_username: 
+instagram_username: 
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-144724692-1 # out your google-analytics code
