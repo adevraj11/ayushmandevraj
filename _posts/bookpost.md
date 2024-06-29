@@ -5,8 +5,7 @@ date: '2014-08-01 15:37:20'
 tags: books reading literature, movies
 background: '/img/posts/01.jpeg'
 subtitle: "A rather surprising read."
-comments: true
-permalink: '/book-review-love-stories-that-touched-my-heart/'
+permalink: '/bookreview/'
 ---
 
 Hello!! This is a test post
