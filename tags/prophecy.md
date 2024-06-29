@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-tag: prophecy
-title: Posts with tag prophecy
+tag: literature
+title: Posts with tag literature
 background: '/img/bg-review.jpg'
-permalink: /tags/prophecy/
+permalink: /tags/literature/
 ---
