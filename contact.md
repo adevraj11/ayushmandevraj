@@ -2,7 +2,7 @@
 layout: page
 title: Contact 
 description: let's talk
-background: '/img/bg-contact.gif'
+background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
 
