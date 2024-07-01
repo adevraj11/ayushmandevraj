@@ -12,7 +12,7 @@ B-401\
 Deptartment of English, Royal School of Languages\
 The Assam Royal Global University, Guwahati\
 Assam, India\
-PIN- 78103
+PIN- 781035
 
 ## Email
 
