@@ -23,4 +23,4 @@ adevraj (at) rgu (dot) ac\
 ayushman (at) hotmail (dot) co (dot) in\
 
   
-(replace at with @ and dot with .)
+*(replace at with @ and dot with . )*
