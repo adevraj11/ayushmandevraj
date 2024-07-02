@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact 
-description: let's talk
+description: for bouquets and brickbats
 background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
