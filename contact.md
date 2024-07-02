@@ -6,8 +6,6 @@ background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
 
-<p>
-
 ## Current Mailing Address 
 
 B-401\
@@ -22,4 +20,4 @@ PIN- 781035
 
 ##### 2. Personal
 - ayushman [AT] hotmail [DOT] co [DOT] in  
-</p>
+
