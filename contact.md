@@ -17,5 +17,5 @@ PIN- 781035
 ## Email 
 
 Work: adevraj at rgu dot ac 
-Personal: ayushman at hotmail dot co dot in\
+Personal: ayushman at hotmail dot co dot in
 > replace at with @ and dot with .
