@@ -22,5 +22,4 @@ adevraj at rgu dot ac
 ##### Personal
 ayushman at hotmail dot co dot in
 
-> [!NOTE]
 > replace at with @ and dot with .
