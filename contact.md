@@ -14,7 +14,7 @@ The Assam Royal Global University, Guwahati\
 Assam, India\
 PIN- 781035
 
-## Email   
+## Email  
 
 ##### 1. Work
 - adevraj at rgu dot ac  
