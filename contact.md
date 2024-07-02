@@ -6,6 +6,8 @@ background: '/img/bg-contact.jpg'
 permalink: /contact/
 ---
 
+<p>
+
 ## Current Mailing Address 
 
 B-401\
@@ -14,9 +16,10 @@ The Assam Royal Global University, Guwahati\
 Assam, India\
 PIN- 781035
 
-## Email  
+## Email <br />  
 ##### 1. Work
 - adevraj [AT] rgu [DOT] ac  
 
 ##### 2. Personal
 - ayushman [AT] hotmail [DOT] co [DOT] in  
+</p>
