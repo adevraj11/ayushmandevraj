@@ -15,10 +15,8 @@ Assam, India\
 PIN- 781035
 
 ## Email
-\
 ##### Work
 adevraj at rgu dot ac
-
 ##### Personal
 ayushman at hotmail dot co dot in
 
